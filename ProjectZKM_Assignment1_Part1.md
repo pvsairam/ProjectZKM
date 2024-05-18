@@ -1,5 +1,6 @@
 # ProjectZKM Assignment 1 - Part 1
 
+```
 import math
 
 def algorithm_3_9(n):
@@ -22,4 +23,8 @@ n = 455459
 factor = algorithm_3_9(n)
 print(f"A non-trivial factor of {n} is {factor}")
 
-## A non-trivial factor of 455459 is 743
+```
+
+## Output:
+
+### A non-trivial factor of 455459 is 743
